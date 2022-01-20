@@ -3,11 +3,11 @@
   <img width="39%" alt="sunset gif" align='right' src="https://github.com/AlexanderCheleA/ProyectosJava/blob/master/ComplejoBa%C3%B1os/capturas/Captura1.JPG"/>
 </p>
 
-#### La aplicacion en cuenta con modulo de registros, facturacion y reportes en tablas, para el desarrollo de la aplicacion se utilizo:
+#### La aplicacion cuenta con modulo de registros, facturacion y reportes en tablas, para el desarrollo de la aplicacion se utilizo:
 - JavaFX
 - PostgreSQL 13
 - IDE Nebeans
-- driver de postgresql
+- Driver de postgresql
 
 ### Actualmente la aplicacion se continua mejorando, en pequeñas funcionalidades...
 - [x] Modulo de cajero // Realizado
