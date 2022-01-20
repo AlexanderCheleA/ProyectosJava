@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Complejo.jnlp">
+  <information>
+    <title>Complejo</title>
+    <vendor>C40S1</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Complejo.jar" size="1647418" download="eager" />
+    <jar href="lib\postgresql-42.2.10.jar" size="927447" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="complejo_pr.COMPLEJO_PR"  name="Complejo" />
+  <update check="always"/>
+</jnlp>
